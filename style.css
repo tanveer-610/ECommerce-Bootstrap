@@ -1,0 +1,15 @@
+.carousol-bg-color{
+    background-color: #FEEAE9;
+}
+.categories img{
+    width: 100px;
+}
+.panda-buy-btn{
+    color: white;
+    border: none;
+    background-image: linear-gradient(#FF589B,#FF136F);
+    padding: 8px;
+    border-radius: 5px;
+    width: 120px;
+    cursor: pointer;
+}
